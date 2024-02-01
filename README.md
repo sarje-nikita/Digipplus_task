@@ -10,7 +10,7 @@ This code is designed to scrape Google My Business (GMB) data from Google Maps b
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/Digipplus_task.git
+    git clone https://github.com/sarje-nikita/Digipplus_task.git
     cd Digipplus_task
     ```
 
